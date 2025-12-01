@@ -1,4 +1,4 @@
-# Carrying Anxiety
+# Carrying Anxiety - Game Production Project
 
 ## Overview
 This is a project that I made in my Game Production class.

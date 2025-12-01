@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndArea5Music",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":109.65867,
+  "name":"sndArea5Music",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndArea5Music.wav",
+  "type":0,
+  "volume":1.0,
+}

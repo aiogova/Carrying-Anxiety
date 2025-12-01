@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"teleportToMaze",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"teleportToMaze",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

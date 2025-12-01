@@ -1,0 +1,25 @@
+fadein();
+
+if(!instance_exists(oPlayer)) {
+	instance_create_layer(221, 2073, "Player", oPlayer);
+}
+
+updateCamera();
+
+if(!instance_exists(oCamera)) {
+	instance_create_layer(221, 2073, "Player", oCamera);
+}
+
+
+global.wordCount = 0;
+global.currently_in_maze = true;
+
+// play music
+if (!audio_is_playing(sndBossFightMusic)) {
+	audio_play_sound(sndBossFightMusic,1,true);
+}
+
+// stop music
+if (audio_is_playing(sndArea5Music)) {
+	audio_stop_sound(sndArea5Music);
+}

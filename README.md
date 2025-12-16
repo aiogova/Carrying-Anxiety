@@ -7,7 +7,9 @@ This is a project that I made in my Game Production class.
 
 It was required that we make a game to contribute to the common good.
 
+Here is the game description from itch.io:
 
+"Carrying Anxiety is a game about tackling the challenges of social anxiety in a visual novel fantasy world. Explore the world and talk to various kinds of NPCs who will engage you in puzzle-oriented challenges centered around making connections and finding the courage to converse with others. Master your newfound strength to challenge your biggest obstacle yet...wait...is that a hamster?"
 
 ## Usage Instructions
 The game is published on itch.io.

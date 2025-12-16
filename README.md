@@ -5,6 +5,10 @@ This is a project that I made in my Game Production class.
 
 "Carrying Anxiety" was a team project created for my Game Production course, where I was the sole programmer. It is a narrative-driven adventure about navigating social anxiety in a fantasy world. The game was developed in GameMaker using GML, and I handled all programming tasks. I also managed debugging, playtesting, and refining game logic to enhance player experience. While the original intent was to portray the difficulties of social anxiety, the final product evolved into more of a lighthearted and quirky adventure.
 
+It was required that we make a game to contribute to the common good.
+
+
+
 ## Usage Instructions
 The game is published on itch.io.
 
